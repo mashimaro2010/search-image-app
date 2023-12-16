@@ -31,16 +31,16 @@ input{
   height: 100%;
   border: 0;
   outline: 0;
-  font-size: 18px;
+  font-size: 14px;
   padding: 0 20px;
   border-radius: 8px;
   background: transparent;
   color:white;
 }
 button{
-  padding:0 40px;
+  padding:0 30px;
   height:100%;
-  font-size: 18px;
+  font-size: 14px;
   border:0;
   outline: 0;
   border-top-right-radius: 5px;
@@ -48,8 +48,8 @@ button{
   cursor: pointer;
 }
 ::placeholder{
-  color: rgb(110, 106, 106);
-  font-size: 18px;
+  color: rgb(248, 247, 247);
+  font-size: 14px;
 }
 .search-result{
   width: 80%;
