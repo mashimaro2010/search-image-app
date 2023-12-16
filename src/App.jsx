@@ -5,7 +5,7 @@ import Picture from './components/Picture';
 function App() {
   const [word,setWord]=useState("");
   const [photos,setPhotos] = useState([])
-  const key="H2y4jAyrMd5yh9YdUR8SHDQEozoE0GzqQUrkQZ2vnDo"
+  //const key="H2y4jAyrMd5yh9YdUR8SHDQEozoE0GzqQUrkQZ2vnDo"
 
   function searchImage(e){
       e.preventDefault()
